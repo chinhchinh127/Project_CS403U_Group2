@@ -1,0 +1,13 @@
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\bin\Debug\net8.0\Project_CS403U_Group2_QLBanGiay.Module.deps.json
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\bin\Debug\net8.0\Project_CS403U_Group2_QLBanGiay.Module.dll
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\bin\Debug\net8.0\Project_CS403U_Group2_QLBanGiay.Module.pdb
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\obj\Debug\net8.0\Project_CS403U_Group2_QLBanGiay.Module.csproj.AssemblyReference.cache
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\obj\Debug\net8.0\Project_CS403U_Group2_QLBanGiay.Module.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\obj\Debug\net8.0\Project_CS403U_Group2_QLBanGiay.Module.AssemblyInfoInputs.cache
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\obj\Debug\net8.0\Project_CS403U_Group2_QLBanGiay.Module.AssemblyInfo.cs
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\obj\Debug\net8.0\Project_CS403U_Group2_QLBanGiay.Module.csproj.CoreCompileInputs.cache
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\obj\Debug\net8.0\Project_CS403U_Group2_QLBanGiay.Module.sourcelink.json
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\obj\Debug\net8.0\Project_CS403U_Group2_QLBanGiay.Module.dll
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\obj\Debug\net8.0\refint\Project_CS403U_Group2_QLBanGiay.Module.dll
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\obj\Debug\net8.0\Project_CS403U_Group2_QLBanGiay.Module.pdb
+E:\University\Lập Trình Ứng Dụng .NET (CS 464)\Project_CS403U_Group2_QLBanGiay\Project_CS403U_Group2_QLBanGiay.Module\obj\Debug\net8.0\ref\Project_CS403U_Group2_QLBanGiay.Module.dll

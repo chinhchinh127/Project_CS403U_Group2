@@ -1,11 +1,23 @@
-﻿<?xml version="1.0" ?>
-<Application Title="Project_CS403U_Group2_QLBanGiay">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="Ban Giay">
   <BOModel>
     <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
   </BOModel>
+  <NavigationItems>
+    <Items>
+      <Item Id="@fb15c319-75d4-4033-866b-6680c7094a1f" Caption="Quản lý" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@45333ca4-0931-4bee-9045-f3c2f7b5992f" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
   <Options>
     <LayoutManagerOptions RequiredFieldMark="*" />
   </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.1.7.0" IsNewNode="True" />
+  </SchemaModules>
   <Views>
     <ListView Id="ApplicationUser_ListView" Caption="Users" />
   </Views>

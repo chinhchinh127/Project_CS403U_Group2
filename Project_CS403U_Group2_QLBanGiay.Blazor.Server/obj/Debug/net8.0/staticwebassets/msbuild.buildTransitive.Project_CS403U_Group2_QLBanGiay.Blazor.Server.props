@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Project_CS403U_Group2_QLBanGiay.Blazor.Server.props" />
+</Project>

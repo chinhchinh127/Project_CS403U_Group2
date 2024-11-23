@@ -34,7 +34,4 @@
       <AutoGen>True</AutoGen>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="BusinessObjects\QLBanGiayCode\" />
-  </ItemGroup>
 </Project>

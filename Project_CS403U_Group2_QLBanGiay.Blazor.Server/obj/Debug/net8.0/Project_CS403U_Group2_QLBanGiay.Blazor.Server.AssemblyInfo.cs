@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project_CS403U_Group2_QLBanGiay.Blazor.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8742427828d248fd6f09ed599d92a7f36e61266b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project_CS403U_Group2_QLBanGiay.Blazor.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project_CS403U_Group2_QLBanGiay.Blazor.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.*")]
